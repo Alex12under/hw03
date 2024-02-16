@@ -1,0 +1,21 @@
+h3 {
+    text-transform: uppercase; text-align: left;
+    background-color: azure;
+    color: rgb(122, 142, 142);
+}
+div{
+text-align: center;
+}
+body{
+    background-color: bisque;
+}
+h2{
+    background-color: white;
+    color: aqua;
+    text-align: center;
+}
+    
+ h6{
+    text-align: center;
+ }
+ 
